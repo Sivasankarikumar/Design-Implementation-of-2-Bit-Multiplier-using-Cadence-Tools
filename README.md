@@ -18,7 +18,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### 1. Launch Cadence Virtuoso Environment:
 - Open the **Cadence Virtuoso** tool and set up the working library.
-- Create a new **schematic cell view** for the **2-bit Multiplier** design.
+- Create a new **schematic cell view** for the **2-bit Multiplier** design
 
 ### 2. Schematic Design:
 - Select **NMOS and PMOS transistors** from the library.
